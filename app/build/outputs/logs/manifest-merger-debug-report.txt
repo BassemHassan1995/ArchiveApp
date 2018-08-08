@@ -1,0 +1,266 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.databinding:adapters:3.2.0-beta05] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\adapters-3.2.0-beta05.aar\36bbe0303cf5bb274ace3f9e6166cdc9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.2.0-beta05] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\library-3.2.0-beta05.aar\bf54274d3e6db55934c4a4edcac57b49\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6fb58236986b42d14b4c4ed906ec5154\AndroidManifest.xml:17:1-22:12
+MERGED from [com.synnapps:carouselview:0.1.4] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\carouselview-0.1.4.aar\78d34204090fbdaeb58d8f5e271b138c\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.stfalcon:frescoimageviewer:0.5.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\frescoimageviewer-0.5.0.aar\8e6765e595c344f1b4ab0d7d75a042f7\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cefcb8f7b2b093ade4ff22d8dd05c52a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0a7f3e6c6127df187ef48610e3725b2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\cb35fd6f5a97b923c07ca3151765ec18\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\360c67c45b4e32dcc2dd029ef45d7476\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.7.1.aar\a3575cc2f3713f8bdbdd62728d607bd5\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\1573c6934a82e01d0dcaf679f0e0df1d\AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.persistence.room:rxjava2:1.1.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\rxjava2-1.1.0.aar\6a380df30732a24c46c4526b115bebca\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\cdb1d702b72f65f29890cbb5ea89fe93\AndroidManifest.xml:15:1-21:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0566de79508fdd2e89a2fb2a9f3485ca\AndroidManifest.xml:17:1-30:12
+MERGED from [com.jaredrummler:android-device-names:1.1.7] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\android-device-names-1.1.7.aar\f77b65c00a697f8cdfdd5b16a45aa4ce\AndroidManifest.xml:2:1-10:12
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\4a017e7e0a147c9c8612bd1feed6441a\AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\b9741b080f604880cb5fcbc5815ce865\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\4f64080dea56f38775b8b7755828b89e\AndroidManifest.xml:2:1-9:12
+MERGED from [me.relex:photodraweeview:1.1.3] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\photodraweeview-1.1.3.aar\f689f0ced94f1b97aa843ec72b933e2f\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\dbc676571b0fe8311e37ba60e7cd6580\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\62328f3a82d27869afe01de919347f14\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e9cb146609a96f1c26a8e1e754ad8830\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d5de2a625dc6f2acd50c00da5497ea2e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\03d3b91e4a657cabe9d5e6f42ad5df96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\cbdf96cdb2d5bc5d3a828d1c57911d01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3079e3e37eb03f629782cedb885e6a84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9471c0ef17d0a0a9facec489f0641b52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1cbe6fbf9e9498e8d3a87dd6f3895380\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\07ef8f007bb59575547fc8fbba8722a5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0f09c6961675f9fa2640c9d9c0de4dd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\cf57fc838cd8d4d5d0cce88c7b332434\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\cab51437623a76ebfb8c31eb46f47bfe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c949335e84b10c6a1725189d7f4f00ce\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5fd734124b17f50c4fa930a446278ef2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\59480d201aa998c7542ebea377e13c02\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.0.aar\519f20048dd7a2cd0cff56bbaf59fc25\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\db-1.1.0.aar\17ea09a1bf9361c50f88a3ebc03c9185\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\92576d3dbeb7e1f4c7744058ad4c7803\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\8c67b81f0ebc7a0b5ef2e99db7c1a5b6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\a1b4c01fe3243be4595eb94d2d204bbb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\b57e4b7378dc6ea40c33b10df0cc4da1\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [com.synnapps:carouselview:0.1.4] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\carouselview-0.1.4.aar\78d34204090fbdaeb58d8f5e271b138c\AndroidManifest.xml:11:5-14:19
+MERGED from [com.synnapps:carouselview:0.1.4] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\carouselview-0.1.4.aar\78d34204090fbdaeb58d8f5e271b138c\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\cb35fd6f5a97b923c07ca3151765ec18\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\cb35fd6f5a97b923c07ca3151765ec18\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.7.1.aar\a3575cc2f3713f8bdbdd62728d607bd5\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.7.1.aar\a3575cc2f3713f8bdbdd62728d607bd5\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\1573c6934a82e01d0dcaf679f0e0df1d\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\1573c6934a82e01d0dcaf679f0e0df1d\AndroidManifest.xml:11:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0566de79508fdd2e89a2fb2a9f3485ca\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0566de79508fdd2e89a2fb2a9f3485ca\AndroidManifest.xml:22:5-28:19
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\4a017e7e0a147c9c8612bd1feed6441a\AndroidManifest.xml:11:5-13:38
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\4a017e7e0a147c9c8612bd1feed6441a\AndroidManifest.xml:11:5-13:38
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\b9741b080f604880cb5fcbc5815ce865\AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\b9741b080f604880cb5fcbc5815ce865\AndroidManifest.xml:12:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\cf57fc838cd8d4d5d0cce88c7b332434\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\cf57fc838cd8d4d5d0cce88c7b332434\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:14:9-48
+	android:icon
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:10:9-48
+activity#com.watanya.archive.ui.view.splash.SplashActivity
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:17:9-67
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:17:19-64
+activity#com.watanya.archive.ui.view.main.MainActivity
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:18:19-60
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:19:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:20:25-66
+action#android.intent.action.VIEW
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:23:27-73
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.watanya.archive.ui.view.test.TestActivity
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:27:9-63
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:27:19-60
+activity#com.watanya.archive.ui.view.createFile.CreateFileActivity
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:28:9-75
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:28:19-72
+activity#com.watanya.archive.ui.view.createCategory.CreateCategoryActivity
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:29:9-83
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:29:19-80
+activity#com.watanya.archive.ui.view.viewfiles.ViewFilesActivity
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:30:9-73
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:30:19-70
+activity#com.watanya.archive.ui.view.viewPapers.ViewPapersActivity
+ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:31:9-75
+	android:name
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml:31:19-72
+uses-sdk
+INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.2.0-beta05] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\adapters-3.2.0-beta05.aar\36bbe0303cf5bb274ace3f9e6166cdc9\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.2.0-beta05] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\adapters-3.2.0-beta05.aar\36bbe0303cf5bb274ace3f9e6166cdc9\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.0-beta05] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\library-3.2.0-beta05.aar\bf54274d3e6db55934c4a4edcac57b49\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.0-beta05] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\library-3.2.0-beta05.aar\bf54274d3e6db55934c4a4edcac57b49\AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6fb58236986b42d14b4c4ed906ec5154\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6fb58236986b42d14b4c4ed906ec5154\AndroidManifest.xml:20:5-44
+MERGED from [com.synnapps:carouselview:0.1.4] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\carouselview-0.1.4.aar\78d34204090fbdaeb58d8f5e271b138c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.synnapps:carouselview:0.1.4] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\carouselview-0.1.4.aar\78d34204090fbdaeb58d8f5e271b138c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.stfalcon:frescoimageviewer:0.5.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\frescoimageviewer-0.5.0.aar\8e6765e595c344f1b4ab0d7d75a042f7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.stfalcon:frescoimageviewer:0.5.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\frescoimageviewer-0.5.0.aar\8e6765e595c344f1b4ab0d7d75a042f7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cefcb8f7b2b093ade4ff22d8dd05c52a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cefcb8f7b2b093ade4ff22d8dd05c52a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0a7f3e6c6127df187ef48610e3725b2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0a7f3e6c6127df187ef48610e3725b2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\cb35fd6f5a97b923c07ca3151765ec18\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\cb35fd6f5a97b923c07ca3151765ec18\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\360c67c45b4e32dcc2dd029ef45d7476\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\360c67c45b4e32dcc2dd029ef45d7476\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.7.1.aar\a3575cc2f3713f8bdbdd62728d607bd5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.7.1.aar\a3575cc2f3713f8bdbdd62728d607bd5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\1573c6934a82e01d0dcaf679f0e0df1d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\1573c6934a82e01d0dcaf679f0e0df1d\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.persistence.room:rxjava2:1.1.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\rxjava2-1.1.0.aar\6a380df30732a24c46c4526b115bebca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:rxjava2:1.1.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\rxjava2-1.1.0.aar\6a380df30732a24c46c4526b115bebca\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\cdb1d702b72f65f29890cbb5ea89fe93\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\cdb1d702b72f65f29890cbb5ea89fe93\AndroidManifest.xml:19:5-43
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0566de79508fdd2e89a2fb2a9f3485ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0566de79508fdd2e89a2fb2a9f3485ca\AndroidManifest.xml:20:5-44
+MERGED from [com.jaredrummler:android-device-names:1.1.7] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\android-device-names-1.1.7.aar\f77b65c00a697f8cdfdd5b16a45aa4ce\AndroidManifest.xml:6:5-8:41
+MERGED from [com.jaredrummler:android-device-names:1.1.7] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\android-device-names-1.1.7.aar\f77b65c00a697f8cdfdd5b16a45aa4ce\AndroidManifest.xml:6:5-8:41
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\4a017e7e0a147c9c8612bd1feed6441a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\4a017e7e0a147c9c8612bd1feed6441a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\b9741b080f604880cb5fcbc5815ce865\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\b9741b080f604880cb5fcbc5815ce865\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\4f64080dea56f38775b8b7755828b89e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\4f64080dea56f38775b8b7755828b89e\AndroidManifest.xml:5:5-7:41
+MERGED from [me.relex:photodraweeview:1.1.3] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\photodraweeview-1.1.3.aar\f689f0ced94f1b97aa843ec72b933e2f\AndroidManifest.xml:8:5-44
+MERGED from [me.relex:photodraweeview:1.1.3] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\photodraweeview-1.1.3.aar\f689f0ced94f1b97aa843ec72b933e2f\AndroidManifest.xml:8:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\dbc676571b0fe8311e37ba60e7cd6580\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\dbc676571b0fe8311e37ba60e7cd6580\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\62328f3a82d27869afe01de919347f14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\62328f3a82d27869afe01de919347f14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e9cb146609a96f1c26a8e1e754ad8830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e9cb146609a96f1c26a8e1e754ad8830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d5de2a625dc6f2acd50c00da5497ea2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d5de2a625dc6f2acd50c00da5497ea2e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\03d3b91e4a657cabe9d5e6f42ad5df96\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\03d3b91e4a657cabe9d5e6f42ad5df96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\cbdf96cdb2d5bc5d3a828d1c57911d01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\cbdf96cdb2d5bc5d3a828d1c57911d01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3079e3e37eb03f629782cedb885e6a84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3079e3e37eb03f629782cedb885e6a84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9471c0ef17d0a0a9facec489f0641b52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9471c0ef17d0a0a9facec489f0641b52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1cbe6fbf9e9498e8d3a87dd6f3895380\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1cbe6fbf9e9498e8d3a87dd6f3895380\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\07ef8f007bb59575547fc8fbba8722a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\07ef8f007bb59575547fc8fbba8722a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0f09c6961675f9fa2640c9d9c0de4dd5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0f09c6961675f9fa2640c9d9c0de4dd5\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\cf57fc838cd8d4d5d0cce88c7b332434\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\cf57fc838cd8d4d5d0cce88c7b332434\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\cab51437623a76ebfb8c31eb46f47bfe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\cab51437623a76ebfb8c31eb46f47bfe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c949335e84b10c6a1725189d7f4f00ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c949335e84b10c6a1725189d7f4f00ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5fd734124b17f50c4fa930a446278ef2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5fd734124b17f50c4fa930a446278ef2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\59480d201aa998c7542ebea377e13c02\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\59480d201aa998c7542ebea377e13c02\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.0.aar\519f20048dd7a2cd0cff56bbaf59fc25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.0.aar\519f20048dd7a2cd0cff56bbaf59fc25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\db-1.1.0.aar\17ea09a1bf9361c50f88a3ebc03c9185\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\db-1.1.0.aar\17ea09a1bf9361c50f88a3ebc03c9185\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\92576d3dbeb7e1f4c7744058ad4c7803\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\92576d3dbeb7e1f4c7744058ad4c7803\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\8c67b81f0ebc7a0b5ef2e99db7c1a5b6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\8c67b81f0ebc7a0b5ef2e99db7c1a5b6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\a1b4c01fe3243be4595eb94d2d204bbb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\a1b4c01fe3243be4595eb94d2d204bbb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\b57e4b7378dc6ea40c33b10df0cc4da1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\b57e4b7378dc6ea40c33b10df0cc4da1\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Projects\Base App\app\src\main\AndroidManifest.xml
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.7.1.aar\a3575cc2f3713f8bdbdd62728d607bd5\AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.7.1.aar\a3575cc2f3713f8bdbdd62728d607bd5\AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.7.1.aar\a3575cc2f3713f8bdbdd62728d607bd5\AndroidManifest.xml:12:13-84
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0566de79508fdd2e89a2fb2a9f3485ca\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0566de79508fdd2e89a2fb2a9f3485ca\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0566de79508fdd2e89a2fb2a9f3485ca\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0566de79508fdd2e89a2fb2a9f3485ca\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NozomControl-5\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0566de79508fdd2e89a2fb2a9f3485ca\AndroidManifest.xml:24:13-83

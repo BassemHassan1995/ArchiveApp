@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Archive App</string>
+    <string name="facebook_app_id" translatable="false">774801492720851</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb774801492720851</string>
+    <string name="loading">Loading…</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="find_out_more">Find out more</string>
+    <string name="want_to">I want to</string>
+    <string name="rent">Rent</string>
+    <string name="buy">Buy</string>
+    <string name="slash">/</string>
+    <string name="find">Find</string>
+    <string name="featured_properties">Featured Properties</string>
+    <string name="for_rent">Find thousands of houses and apartments for rent</string>
+    <string name="all_properties">All Properties</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="enter_user_name">Enter your Username/Email</string>
+    <string name="enter_password">Enter your Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="you_have_account">You have Account?</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="cant_be_empty">Can\'t be empty</string>
+    <string name="call_now">Call now</string>
+    <string name="chat">Chat</string>
+    <string name="you_have_a_problem">You have a problem?</string>
+    <string name="property_details">Very modern apartment that every room has a color, with direct and indirect lighting. Very cozy and relaxing. Also having some spiritual and meditative spirit. The appartment includes all the appliances that you will need. All the appliances are built-in and new. The appartment is located very close to the down town. Within a walking distance from the nile. The space The apartment is cozy and colorful, very relaxing and meditative as well. The location is at the heart of cairo. </string>
+    <string name="details_title">Details</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="choose_file">Choose File</string>
+    <string name="view">View</string>
+    <string name="share">Share</string>
+
+</resources>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_up"><u>انشء حساب</u></string>
+    <string name="rent">تأجير</string>
+    <string name="buy">شراء</string>
+    <string name="find">ابحث</string>
+    <string name="featured_properties">وحدات مميزة</string>
+    <string name="for_rent">تصفح الآلاف من المنازل والشقق للإيجار</string>
+    <string name="all_properties">جميع العقارات</string>
+    <string name="forgot_your_password">نسيت كلمة المرور؟</string>
+    <string name="user_name">إسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="enter_user_name">أدخل إسم المستخدم أو البريد الالكترونى</string>
+    <string name="enter_password">أدخل كلمة المرور</string>
+    <string name="full_name">الإسم بالكامل</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="you_have_account">هل لديك حساب؟</string>
+    <string name="email">البريد الإلكترونى</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="first_name">الإسم الأول</string>
+    <string name="last_name">الإسم الأخير</string>
+    <string name="cant_be_empty">لا يمكن أن يكون فارغا</string>
+    <string name="call_now">إتصل الآن</string>
+    <string name="chat">محادثة</string>
+    <string name="you_have_a_problem">هل تواجه مشاكل؟</string>
+    <string name="property_details">Very modern apartment that every room has a color, with direct and indirect lighting. Very cozy and relaxing. Also having some spiritual and meditative spirit. The appartment includes all the appliances that you will need. All the appliances are built-in and new. The appartment is located very close to the down town. Within a walking distance from the nile. The space The apartment is cozy and colorful, very relaxing and meditative as well. The location is at the heart of cairo. </string>
+    <string name="details_title">التفاصيل</string>
+    <string name="loading">جارى التحميل…</string>
+    <string name="want_to">أريد</string>
+    <string name="sign_in">تسجبل الدخول</string>
+    <string name="app_name">برنامج الأرشيف</string>
+    <string name="find_out_more">اعثر على المزيد</string>
+    <string name="slash">\\</string>
+    <string name="choose_category">إختر فئة</string>
+    <string name="choose_file">إختر ملف</string>
+    <string name="view">عرض</string>
+    <string name="share">Share</string>
+</resources>

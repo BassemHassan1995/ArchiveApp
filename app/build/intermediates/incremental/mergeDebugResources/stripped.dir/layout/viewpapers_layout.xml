@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                  
+                                                           
+
+    
+
+                                           
+
+                 
+                            
+                                                                                
+
+           
+
+    <FrameLayout
+        android:background="@drawable/background_pattern"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" android:tag="layout/viewpapers_layout_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" tools:context=".ui.view.viewPapers.ViewPapersActivity">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/tv_file_name"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:tag="binding_1"             
+                android:textSize="34sp"
+                android:textStyle="bold|italic"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recycler_view"
+                android:tag="binding_2"              
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@id/tv_file_name"
+                app:layout_constraintTop_toBottomOf="@id/tv_file_name"
+                tools:listitem="@layout/paper_list_item" />
+
+        </android.support.constraint.ConstraintLayout>
+    </FrameLayout>
+
+
+         

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                   
+                                               
+
+
+
+                                       
+
+             
+                        
+                                                                                             
+
+       
+
+    <android.support.v7.widget.CardView
+        app:cardCornerRadius="15dp"
+        android:layout_margin="10dp"
+        contentPadding="10dp"
+        android:elevation="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:tag="layout/file_list_item_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <android.support.constraint.ConstraintLayout
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:id="@+id/tv_file_name"
+                android:fontFamily="@font/source_sans_pro_regular"
+                android:textSize="20sp"
+                android:tag="binding_1"             
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:id="@+id/tv_file_note"
+                android:fontFamily="@font/source_sans_pro_regular"
+                android:tag="binding_2"                            
+                android:textSize="16sp"
+                android:textColor="@color/grey_500"
+                app:layout_constraintTop_toBottomOf="@id/tv_file_name"
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+        </android.support.constraint.ConstraintLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+         
