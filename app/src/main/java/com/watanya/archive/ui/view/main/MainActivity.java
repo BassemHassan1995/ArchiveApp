@@ -12,6 +12,7 @@ import com.watanya.archive.data.model.File;
 import com.watanya.archive.ui.ViewModelFactory;
 import com.watanya.archive.ui.base.BaseActivity;
 import com.watanya.archive.databinding.MainLayoutBinding;
+import com.watanya.archive.ui.view.viewPapers.ViewPapersActivity;
 import com.watanya.archive.ui.view.viewfiles.ViewFilesActivity;
 
 public class MainActivity extends BaseActivity<MainLayoutBinding, MainViewModel> implements MainNavigator {
@@ -64,11 +65,11 @@ public class MainActivity extends BaseActivity<MainLayoutBinding, MainViewModel>
     }
 
     @Override
-    public void openViewFileActivity(Class<ViewFilesActivity> viewFilesActivityClass, File selectedFile) {
+    public void openViewFileActivity(Class<ViewPapersActivity> viewPapersActivityClass, File selectedFile) {
         Bundle options = new Bundle();
         options.putSerializable("file" , selectedFile);
 
-        startActivity(viewFilesActivityClass , options);
+        startActivity(viewPapersActivityClass , options);
 //        startActivity(viewFileActivityClass , options);
     }
 

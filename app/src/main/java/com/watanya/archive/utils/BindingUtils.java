@@ -20,6 +20,7 @@ import com.synnapps.carouselview.CarouselView;
 import com.synnapps.carouselview.ImageClickListener;
 import com.synnapps.carouselview.ImageListener;
 import com.watanya.archive.data.interfaces.SpinnerItemInterface;
+import com.watanya.archive.data.interfaces.ViewHolderInterface;
 import com.watanya.archive.data.model.File;
 import com.watanya.archive.data.model.Paper;
 import com.watanya.archive.ui.view.viewPapers.recyclerviews.papers.PapersAdapter;
@@ -122,16 +123,18 @@ public final class BindingUtils {
         spinner.setSelection(selectionIndex.get(),false);
     }
 
-    @BindingAdapter("filesItems")
-    public static void setFilesItems (RecyclerView recyclerView, ArrayList<File> files){
+    @BindingAdapter(value = {"filesItems" , "navigator"})
+    public static void setFilesItems (RecyclerView recyclerView, ArrayList<File> files, ViewHolderInterface navigator ){
         recyclerView.setLayoutManager(new LinearLayoutManager(recyclerView.getContext(), LinearLayoutManager.VERTICAL, false  ));
-        FilesAdapter adapter = new FilesAdapter(files);
+//        FilesAdapter adapter = new FilesAdapter(files);
+        FilesAdapter adapter = new FilesAdapter(files, navigator);
         recyclerView.setAdapter(adapter);
     }
-    @BindingAdapter("papersItems")
-    public static void setPapersItems (RecyclerView recyclerView, ArrayList<Paper> papers){
+    @BindingAdapter(value = {"papersItems", "navigator"})
+    public static void setPapersItems (RecyclerView recyclerView, ArrayList<Paper> papers, ViewHolderInterface navigator){
         recyclerView.setLayoutManager(new LinearLayoutManager(recyclerView.getContext(), LinearLayoutManager.VERTICAL, false  ));
-        PapersAdapter adapter = new PapersAdapter(papers);
+//        PapersAdapter adapter = new PapersAdapter(papers);
+        PapersAdapter adapter = new PapersAdapter(papers,navigator);
         recyclerView.setAdapter(adapter);
     }
 

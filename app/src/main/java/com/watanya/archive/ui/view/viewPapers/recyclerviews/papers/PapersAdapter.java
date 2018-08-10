@@ -5,6 +5,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
 
+import com.watanya.archive.data.interfaces.ViewHolderInterface;
 import com.watanya.archive.data.model.Paper;
 import com.watanya.archive.databinding.FileListItemBinding;
 import com.watanya.archive.databinding.PaperListItemBinding;
@@ -16,10 +17,16 @@ import java.util.ArrayList;
 public class PapersAdapter extends RecyclerView.Adapter<BaseViewHolder> {
 
     public ArrayList<Paper> papers;
+    public ViewHolderInterface navigator;
 
     public PapersAdapter(ArrayList<Paper> papers) {
         this.papers = papers;
     }
+
+    public PapersAdapter(ArrayList<Paper> papers, ViewHolderInterface navigator) {
+        this.papers = papers;
+        this.navigator = navigator;
+        }
 
     @NonNull
     @Override
@@ -54,7 +61,7 @@ public class PapersAdapter extends RecyclerView.Adapter<BaseViewHolder> {
         @Override
         public void onBind(int position) {
             Paper paper = papers.get(position);
-            mPaperItemViewModel = new PaperItemViewModel(paper);
+            mPaperItemViewModel = new PaperItemViewModel(paper, navigator);
             mBinding.setViewModel(mPaperItemViewModel);
 
             mBinding.executePendingBindings();

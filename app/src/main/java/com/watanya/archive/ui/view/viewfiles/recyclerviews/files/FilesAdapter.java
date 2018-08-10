@@ -6,6 +6,7 @@ import android.view.LayoutInflater;
 import android.view.ViewGroup;
 
 
+import com.watanya.archive.data.interfaces.ViewHolderInterface;
 import com.watanya.archive.data.model.File;
 import com.watanya.archive.databinding.FileListItemBinding;
 import com.watanya.archive.ui.base.BaseViewHolder;
@@ -16,9 +17,15 @@ import java.util.ArrayList;
 public class FilesAdapter extends RecyclerView.Adapter<BaseViewHolder> {
 
     private ArrayList<File> files;
+    private ViewHolderInterface navigator;
 
     public FilesAdapter(ArrayList<File> files) {
         this.files = files;
+    }
+
+    public FilesAdapter(ArrayList<File> files, ViewHolderInterface navigator) {
+        this.files = files;
+        this.navigator = navigator;
     }
 
     @NonNull
@@ -56,7 +63,7 @@ public class FilesAdapter extends RecyclerView.Adapter<BaseViewHolder> {
         @Override
         public void onBind(int position) {
             final File selected = files.get(position);
-            mFileItemViewModel = new FileItemViewModel(selected);
+            mFileItemViewModel = new FileItemViewModel(selected, navigator);
             mBinding.setViewModel(mFileItemViewModel);
 
             // Immediate Binding

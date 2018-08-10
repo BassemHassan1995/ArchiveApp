@@ -9,6 +9,7 @@ import com.watanya.archive.ui.base.BaseViewModel;
 import com.watanya.archive.ui.view.createCategory.CreateCategoryActivity;
 import com.watanya.archive.ui.view.createFile.CreateFileActivity;
 import com.watanya.archive.ui.view.test.TestActivity;
+import com.watanya.archive.ui.view.viewPapers.ViewPapersActivity;
 import com.watanya.archive.ui.view.viewfiles.ViewFilesActivity;
 
 import java.util.ArrayList;
@@ -78,8 +79,7 @@ public class MainViewModel extends BaseViewModel<MainNavigator> {
         }
         else
         {
-            //TODO: Make ViewFileActivity
-            getNavigator().openViewFileActivity(ViewFilesActivity.class, selectedFile);
+            getNavigator().openViewFileActivity(ViewPapersActivity.class, selectedFile);
         }
     }
 

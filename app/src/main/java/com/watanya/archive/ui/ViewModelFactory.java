@@ -6,6 +6,8 @@ import android.support.annotation.NonNull;
 
 import com.watanya.archive.ui.view.test.TestNavigator;
 import com.watanya.archive.ui.view.test.TestViewModel;
+import com.watanya.archive.ui.view.viewPapers.ViewPapersNavigator;
+import com.watanya.archive.ui.view.viewPapers.ViewPapersViewModel;
 import com.watanya.archive.ui.view.viewfiles.ViewFilesNavigator;
 import com.watanya.archive.ui.view.viewfiles.ViewFilesViewModel;
 import com.watanya.archive.ui.view.createCategory.CreateCategoryNavigator;
@@ -33,6 +35,8 @@ public class ViewModelFactory implements ViewModelProvider.Factory {
             return (T) new SplashViewModel((SplashNavigator) navigator);
         else if (modelClass.isAssignableFrom(ViewFilesViewModel.class))
             return (T) new ViewFilesViewModel((ViewFilesNavigator) navigator);
+        else if (modelClass.isAssignableFrom(ViewPapersViewModel.class))
+            return (T) new ViewPapersViewModel((ViewPapersNavigator) navigator);
         else if (modelClass.isAssignableFrom(CreateFileViewModel.class))
             return (T) new CreateFileViewModel((CreateFileNavigator) navigator);
         else if (modelClass.isAssignableFrom(CreateCategoryViewModel.class))

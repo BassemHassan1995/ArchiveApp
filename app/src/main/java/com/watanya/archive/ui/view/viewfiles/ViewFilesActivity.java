@@ -12,6 +12,7 @@ import com.watanya.archive.data.model.Category;
 import com.watanya.archive.ui.ViewModelFactory;
 import com.watanya.archive.ui.base.BaseActivity;
 import com.watanya.archive.databinding.ViewfilesLayoutBinding;
+import com.watanya.archive.ui.view.viewPapers.ViewPapersActivity;
 
 public class ViewFilesActivity extends BaseActivity<ViewfilesLayoutBinding, ViewFilesViewModel> implements ViewFilesNavigator {
 
@@ -65,5 +66,10 @@ public class ViewFilesActivity extends BaseActivity<ViewfilesLayoutBinding, View
         Bundle extras = intent.getExtras();
 
         return (Category) extras.getSerializable("category");
+    }
+
+    @Override
+    public void openViewPapersActivity(Bundle extras) {
+        startActivity(ViewPapersActivity.class, extras);
     }
 }

@@ -4,7 +4,6 @@ package com.watanya.archive.ui.view.test;
 import android.arch.lifecycle.ViewModelProviders;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.view.View;
 
 import com.facebook.drawee.backends.pipeline.Fresco;
 import com.stfalcon.frescoimageviewer.ImageViewer;
@@ -13,6 +12,7 @@ import com.watanya.archive.R;
 import com.watanya.archive.ui.ViewModelFactory;
 import com.watanya.archive.ui.base.BaseActivity;
 import com.watanya.archive.databinding.TestLayoutBinding;
+import com.watanya.archive.ui.view.CustomImage;
 
 import java.util.ArrayList;
 
@@ -69,7 +69,7 @@ public class TestActivity extends BaseActivity<TestLayoutBinding, TestViewModel>
 
         new ImageViewer.Builder(this, list)
                 .setStartPosition(startPosition)
-                .setBackgroundColor(getResources().getColor(R.color.white))
+                .setBackgroundColor(getResources().getColor(R.color.transparent_white))
                 .allowSwipeToDismiss(true)
                 .setOnDismissListener(new ImageViewer.OnDismissListener() {
                     @Override

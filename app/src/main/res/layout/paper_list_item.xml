@@ -14,6 +14,7 @@ xmlns:tools="http://schemas.android.com/tools">
 </data>
 
     <android.support.v7.widget.CardView
+        android:onClick="@{()-> viewModel.onItemClicked()}"
         app:cardCornerRadius="15dp"
         android:layout_margin="10dp"
         contentPadding="10dp"
